@@ -1,15 +1,15 @@
 ## KittenPixel
-###### also known as Gamer, Gamer_Girl
 
 ## My Programming Languages
 
 ### LuaU
+### C#
 
 ### A little bit of javascript
 
 ## Currently working on :
-- Singularity Labs
-- A core game thing idk what to name it yet
+- Ethos Archives
+- and more!
 
   I am currently looking for jobs in the Roblox LuaU programming.
 
